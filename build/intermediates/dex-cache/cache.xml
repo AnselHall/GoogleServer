@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AOSP\GoogleServer\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e1711ca0b3c0d9e1d2f1356701725b1c9730eef">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_c03c337cc1ca6f8ee78783804797aa9cc6f14906\classes.dex" />
+    </item>
+
+</items>
