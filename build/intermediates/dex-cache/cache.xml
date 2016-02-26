@@ -2,11 +2,102 @@
 <items version="2" >
 
     <item
-        jar="E:\AOSP\GoogleServer\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5e1711ca0b3c0d9e1d2f1356701725b1c9730eef">
-        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_c03c337cc1ca6f8ee78783804797aa9cc6f14906\classes.dex" />
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-xml-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2af248565bf1fc901c5afc215631ee44e66076ba">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-xml-7.6.0.RC4_e6d037a9ce7bc8d4b1414deddb5cfaf80e0634c2.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-server-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c1e69898d6b7c6d699869608c717e410a6b6dcd8">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-server-7.6.0.RC4_02cc818c0aa83ce1bd0928c016da1c076aaa689e.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-deploy-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2def705ba01d2ac2527fc39ca464c6f5fa5e62d8">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-deploy-7.6.0.RC4_7e7b8fe2a1db2b5e0413c3be2905e58f7482d652.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-servlet-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31bbf468fac41f10dc3a139770f14a4edd2b670">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-servlet-7.6.0.RC4_30a4b72a8b38178c1cda93882023f742ba6a318b.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-security-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8a00106b80f8cca740c34f80a644d2361b01713">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-security-7.6.0.RC4_8b0ff6bf452faa66dd9306a9d93e198f98213672.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-webapp-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="364e0a14dd4e21cdee805e0d665e80fd07f70095">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-webapp-7.6.0.RC4_ce352387d55b83d46daf33a62bed3cefa0724a73.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-client-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0f8517dddb9a2ec49fb05b32b066cad58ef41691">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-client-7.6.0.RC4_6035b8ba27995cc3b8ae11e7786eb28fdf1a87e2.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-util-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6636941bedf8a45873547601555daa5e846c9b73">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-util-7.6.0.RC4_af9f378d0b5f32dba9c4b62f2cd403d6e382b2fb.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-continuation-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7b4e0c783cd6cd6424981f3531660f92edf3f181">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-continuation-7.6.0.RC4_06d96b751be35e930e4fdfb5ee4488df9048ea95.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\servlet-api-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5959582d97d8b61f4d154ca9e495aafd16726e34">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\servlet-api-2.5_50bc3f582ab9b0d9ee578ef071bccbcd8f84ce62.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-io-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7b870fb050ff237c75ed0de289f77d419e2821d4">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-io-7.6.0.RC4_0676f917891b4973ce99eeb1d9e2c6247b3b0608.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jetty-http-7.6.0.RC4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e797c61b523776dacfb5592bdfce6a9ddbbda7a7">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jetty-http-7.6.0.RC4_7d31dc23825ab6617a3d4a082769ab02a6d2e58f.jar" />
+    </item>
+    <item
+        jar="E:\AOSP\GoogleServer\app\libs\jstl-1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74aca283cd4f4b4f3e425f5820cda58f44409547">
+        <dex dex="E:\AOSP\GoogleServer\app\build\intermediates\pre-dexed\release\jstl-1.2_77e59289f3fd3f7fc6b7f089443a72ebc3ef2f56.jar" />
     </item>
 
 </items>
